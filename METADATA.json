@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Gujarati",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 48761,
+  "fonts": [
+    {
+      "name": "Noto Sans Gujarati",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSansGujarati-Bold.ttf",
+      "postScriptName": "NotoSansGujarati-Bold",
+      "fullName": "Noto Sans Gujarati Bold",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Sans Gujarati",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansGujarati-Regular.ttf",
+      "postScriptName": "NotoSansGujarati",
+      "fullName": "Noto Sans Gujarati",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
